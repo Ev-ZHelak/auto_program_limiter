@@ -1,4 +1,4 @@
-# Simple program time limit
+# Simple Time Limit for Programs
 
 This script allows you to set time limits for the execution of specific programs.
 
