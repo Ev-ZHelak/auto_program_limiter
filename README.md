@@ -21,8 +21,8 @@ program_name time_limit_in_minutes days_of_week
 For example:
 
 ```
-chrome 30 1 2 3 4 5
-notepad 15 6 7
+chrome.exe 30 1 2 3 4 5
+notepad.exe 15 6 7
 ```
 
 This means that the `chrome` program can run for up to 30 minutes on Monday, Tuesday, Wednesday, Thursday, and Friday. The `notepad` program can run for up to 15 minutes on Saturday and Sunday.
