@@ -1,4 +1,4 @@
-# Simple Time-Limited Program Launcher
+# Simple program time limit
 
 This script allows you to set time limits for the execution of specific programs.
 
